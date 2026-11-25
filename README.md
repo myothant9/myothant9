@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Myo Thant Naing" />
+  <img src="./header.svg" width="100%" alt="Myo Thant Naing" />
 </p>
 
 <p align="center">
@@ -8,25 +8,25 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <img src="./divider.svg" width="100%" alt="divider" />
 </p>
 
 <!-- AI robot petting an orange cat -->
 <p align="center">
-  <img src="./assets/robot.svg" width="100%" alt="AI robot petting a cat" />
+  <img src="./robot.svg" width="100%" alt="AI robot petting a cat" />
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <img src="./divider.svg" width="100%" alt="divider" />
 </p>
 
 <!-- Night sky with orbiting planets -->
 <p align="center">
-  <img src="./assets/orbit.svg" width="100%" alt="Orbiting planets" />
+  <img src="./orbit.svg" width="100%" alt="Orbiting planets" />
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <img src="./divider.svg" width="100%" alt="divider" />
 </p>
 
 <!-- GitHub activity -->
@@ -45,5 +45,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="footer" />
+  <img src="./footer.svg" width="100%" alt="footer" />
 </p>
