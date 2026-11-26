@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-label="Animated coder typing C# code">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F2027"/><stop offset="0.5" stop-color="#203A43"/><stop offset="1" stop-color="#2C5364"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#91EAE4" stop-opacity=".45"/><stop offset="1" stop-color="#91EAE4" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="ed"><rect x="332" y="62" width="634" height="298"/></clipPath>
+    <style>
+      text{font-family:Consolas,'Courier New',monospace;font-size:15px}
+      .k{fill:#86A8E7}.t{fill:#91EAE4}.s{fill:#F7C873}.m{fill:#C3A6FF}.p{fill:#E6F1F3}
+      .ln{fill:#4f6f78;font-size:13px}
+      .cur{fill:#91EAE4;animation:blink 1s steps(1) infinite}
+      .ui{font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#9fc3ca}
+      .arm1{animation:typeA .28s ease-in-out infinite}
+      .arm2{animation:typeA .28s ease-in-out .14s infinite}
+      .head{animation:bob 2.4s ease-in-out infinite}
+      .float{animation:float 4s ease-in-out infinite}.f2{animation-delay:1.3s}.f3{animation-delay:2.6s}
+      .screen{animation:flick 1.8s ease-in-out infinite}
+      .steam{animation:steam 2.5s ease-out infinite}.st2{animation-delay:1.2s}
+      @keyframes blink{50%{opacity:0}}
+      @keyframes typeA{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+      @keyframes bob{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(2px) rotate(-1.5deg)}}
+      @keyframes float{0%,100%{transform:translateY(0);opacity:.35}50%{transform:translateY(-12px);opacity:.9}}
+      @keyframes flick{0%,100%{opacity:.85}50%{opacity:1}}
+      @keyframes steam{0%{transform:translateY(0);opacity:0}30%{opacity:.7}100%{transform:translateY(-22px);opacity:0}}
+@keyframes c0{0%,3.795%{transform:translateX(0);animation-timing-function:steps(13,end)}7.187%,97%{transform:translateX(117px)}97.01%,100%{transform:translateX(0)}}
+@keyframes k0{0%,3.795%{opacity:0}3.805%,9.084%{opacity:1}9.094%,100%{opacity:0}}
+@keyframes c2{0%,9.084%{transform:translateX(0);animation-timing-function:steps(22,end)}14.824%,97%{transform:translateX(198px)}97.01%,100%{transform:translateX(0)}}
+@keyframes k2{0%,9.084%{opacity:0}9.094%,16.248%{opacity:1}16.258%,100%{opacity:0}}
+@keyframes c3{0%,16.248%{transform:translateX(0);animation-timing-function:steps(1,end)}16.509%,97%{transform:translateX(9px)}97.01%,100%{transform:translateX(0)}}
+@keyframes k3{0%,16.248%{opacity:0}16.258%,17.932%{opacity:1}17.942%,100%{opacity:0}}
+@keyframes c4{0%,17.932%{transform:translateX(0);animation-timing-function:steps(40,end)}28.368%,97%{transform:translateX(360px)}97.01%,100%{transform:translateX(0)}}
+@keyframes k4{0%,17.932%{opacity:0}17.942%,29.791%{opacity:1}29.801%,100%{opacity:0}}
+@keyframes c5{0%,29.791%{transform:translateX(0);animation-timing-function:steps(54,end)}43.88%,97%{transform:translateX(486px)}97.01%,100%{transform:translateX(0)}}
+@keyframes k5{0%,29.791%{opacity:0}29.801%,45.778%{opacity:1}45.788%,100%{opacity:0}}
+@keyframes c7{0%,45.778%{transform:translateX(0);animation-timing-function:steps(18,end)}50.474%,97%{transform:translateX(162px)}97.01%,100%{transform:translateX(0)}}
+@keyframes k7{0%,45.778%{opacity:0}45.788%,51.898%{opacity:1}51.908%,100%{opacity:0}}
+@keyframes c8{0%,51.898%{transform:translateX(0);animation-timing-function:steps(1,end)}52.158%,97%{transform:translateX(9px)}97.01%,100%{transform:translateX(0)}}
+@keyframes k8{0%,51.898%{opacity:0}51.908%,53.582%{opacity:1}53.592%,100%{opacity:0}}
+@keyframes c9{0%,53.582%{transform:translateX(0);animation-timing-function:steps(20,end)}58.8%,97%{transform:translateX(180px)}97.01%,100%{transform:translateX(0)}}
+@keyframes k9{0%,53.582%{opacity:0}53.592%,60.223%{opacity:1}60.233%,100%{opacity:0}}
+@keyframes c10{0%,60.223%{transform:translateX(0);animation-timing-function:steps(45,end)}71.964%,97%{transform:translateX(405px)}97.01%,100%{transform:translateX(0)}}
+@keyframes k10{0%,60.223%{opacity:0}60.233%,73.387%{opacity:1}73.397%,100%{opacity:0}}
+@keyframes c11{0%,73.387%{transform:translateX(0);animation-timing-function:steps(1,end)}73.648%,97%{transform:translateX(9px)}97.01%,100%{transform:translateX(0)}}
+@keyframes k11{0%,73.387%{opacity:0}73.397%,75.071%{opacity:1}75.081%,100%{opacity:0}}
+@keyframes c12{0%,75.071%{transform:translateX(0);animation-timing-function:steps(1,end)}75.332%,97%{transform:translateX(9px)}97.01%,100%{transform:translateX(0)}}
+@keyframes k12{0%,75.071%{opacity:0}75.081%,78.653%{opacity:1}78.663%,100%{opacity:0}}
+@keyframes code{0%{opacity:1}93%{opacity:1}97%{opacity:0}97.01%,100%{opacity:1}}
+@keyframes term{0%,78.653%{opacity:0}80.076%,93%{opacity:1}97%,100%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="1000" height="420" rx="18" fill="url(#bg)"/>
+
+  <!-- floating symbols -->
+  <text x="40" y="70" class="float t" style="font-size:22px">&lt;/&gt;</text>
+  <text x="250" y="60" class="float f2 m" style="font-size:22px">{ }</text>
+  <text x="270" y="300" class="float f3 s" style="font-size:20px">C#</text>
+
+  <!-- coder at a laptop -->
+  <ellipse cx="160" cy="215" rx="130" ry="110" fill="url(#glow)"/>
+  <g class="head" style="transform-origin:160px 175px">
+    <rect x="128" y="168" width="64" height="70" rx="26" fill="#2C5364"/>
+    <circle cx="160" cy="140" r="30" fill="#f2c9a0"/>
+    <path d="M130 136 Q132 106 160 106 Q190 106 190 136 Q178 122 160 124 Q142 122 130 136Z" fill="#1d2b30"/>
+    <rect x="140" y="136" width="16" height="10" rx="3" fill="none" stroke="#1d2b30" stroke-width="2.5"/>
+    <rect x="164" y="136" width="16" height="10" rx="3" fill="none" stroke="#1d2b30" stroke-width="2.5"/>
+    <line x1="156" y1="141" x2="164" y2="141" stroke="#1d2b30" stroke-width="2.5"/>
+    <path d="M152 156 Q160 161 168 156" stroke="#9b5a3c" stroke-width="2" fill="none"/>
+    <path d="M128 140 Q120 140 122 150" stroke="#86A8E7" stroke-width="5" fill="none"/>
+    <rect x="117" y="146" width="9" height="14" rx="4" fill="#86A8E7"/>
+  </g>
+  <!-- arms typing -->
+  <g class="arm1"><path d="M135 200 Q110 260 130 296" stroke="#2C5364" stroke-width="14" fill="none" stroke-linecap="round"/><circle cx="131" cy="297" r="8" fill="#f2c9a0"/></g>
+  <g class="arm2"><path d="M185 200 Q205 260 190 296" stroke="#2C5364" stroke-width="14" fill="none" stroke-linecap="round"/><circle cx="189" cy="297" r="8" fill="#f2c9a0"/></g>
+  <!-- laptop (back of the lid faces us) -->
+  <path d="M92 298 L228 298 L240 312 L80 312Z" fill="#9fb7bd"/>
+  <rect x="96" y="214" width="128" height="86" rx="8" fill="#c9d8dc"/>
+  <rect x="96" y="214" width="128" height="86" rx="8" fill="none" stroke="#9fb7bd" stroke-width="2"/>
+  <circle cx="160" cy="257" r="17" fill="#2C5364" class="screen"/>
+  <text x="160" y="263" text-anchor="middle" style="font-family:'Segoe UI',Arial,sans-serif;font-size:16px;font-weight:700;fill:#91EAE4">C#</text>
+  <!-- desk + coffee -->
+  <rect x="20" y="312" width="290" height="10" rx="5" fill="#16303a"/>
+  <rect x="262" y="286" width="24" height="26" rx="4" fill="#E6F1F3"/>
+  <path d="M286 292 q10 0 10 8 q0 8 -10 8" stroke="#E6F1F3" stroke-width="3" fill="none"/>
+  <path class="steam" d="M268 280 q-5 -8 0 -16" stroke="#E6F1F3" stroke-width="2" fill="none"/>
+  <path class="steam st2" d="M279 280 q5 -8 0 -16" stroke="#E6F1F3" stroke-width="2" fill="none"/>
+  <text x="165" y="352" text-anchor="middle" class="ui">typing<tspan class="dots">...</tspan></text>
+
+  <!-- editor window -->
+  <rect x="330" y="26" width="640" height="368" rx="12" fill="#0b1a20" stroke="#2C5364" stroke-width="2"/>
+  <path d="M330 38 a12 12 0 0 1 12 -12 h616 a12 12 0 0 1 12 12 v24 h-640Z" fill="#132a32"/>
+  <circle cx="352" cy="44" r="6" fill="#ff5f57"/><circle cx="372" cy="44" r="6" fill="#febc2e"/><circle cx="392" cy="44" r="6" fill="#28c840"/>
+  <rect x="420" y="32" width="120" height="30" rx="6" fill="#0b1a20"/>
+  <text x="480" y="52" text-anchor="middle" class="ui" style="fill:#E6F1F3">Developer.cs</text>
+  <text x="377" y="98" text-anchor="end" class="ln">1</text><text x="377" y="118" text-anchor="end" class="ln">2</text><text x="377" y="138" text-anchor="end" class="ln">3</text><text x="377" y="158" text-anchor="end" class="ln">4</text><text x="377" y="178" text-anchor="end" class="ln">5</text><text x="377" y="198" text-anchor="end" class="ln">6</text><text x="377" y="218" text-anchor="end" class="ln">7</text><text x="377" y="238" text-anchor="end" class="ln">8</text><text x="377" y="258" text-anchor="end" class="ln">9</text><text x="377" y="278" text-anchor="end" class="ln">10</text><text x="377" y="298" text-anchor="end" class="ln">11</text><text x="377" y="318" text-anchor="end" class="ln">12</text><text x="377" y="338" text-anchor="end" class="ln">13</text>
+  <g clip-path="url(#ed)" style="animation:code 21.08s infinite">
+  <text x="395" y="98" textLength="117" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="k">using</tspan><tspan class="p"> System;</tspan></text>
+  <g style="animation:c0 21.08s infinite"><rect x="395" y="83" width="129" height="20" fill="#0b1a20"/><g style="animation:k0 21.08s infinite"><rect class="cur" x="395" y="84" width="2.5" height="17"/></g></g>
+  <text x="395" y="138" textLength="198" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="k">public class</tspan><tspan class="t"> Developer</tspan></text>
+  <g style="animation:c2 21.08s infinite"><rect x="395" y="123" width="210" height="20" fill="#0b1a20"/><g style="animation:k2 21.08s infinite"><rect class="cur" x="395" y="124" width="2.5" height="17"/></g></g>
+  <text x="395" y="158" textLength="9" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="p">{</tspan></text>
+  <g style="animation:c3 21.08s infinite"><rect x="395" y="143" width="21" height="20" fill="#0b1a20"/><g style="animation:k3 21.08s infinite"><rect class="cur" x="395" y="144" width="2.5" height="17"/></g></g>
+  <text x="413" y="178" textLength="360" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="k">public string</tspan><tspan class="p"> Name </tspan><tspan class="p">=&gt;</tspan><tspan class="s"> "Myo Thant Naing"</tspan><tspan class="p">;</tspan></text>
+  <g style="animation:c4 21.08s infinite"><rect x="413" y="163" width="372" height="20" fill="#0b1a20"/><g style="animation:k4 21.08s infinite"><rect class="cur" x="413" y="164" width="2.5" height="17"/></g></g>
+  <text x="413" y="198" textLength="486" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="k">public string</tspan><tspan class="p">[] Stack </tspan><tspan class="p">=&gt;</tspan><tspan class="p"> new[] { </tspan><tspan class="s">"C#"</tspan><tspan class="p">, </tspan><tspan class="s">".NET"</tspan><tspan class="p">, </tspan><tspan class="s">"AI"</tspan><tspan class="p"> };</tspan></text>
+  <g style="animation:c5 21.08s infinite"><rect x="413" y="183" width="498" height="20" fill="#0b1a20"/><g style="animation:k5 21.08s infinite"><rect class="cur" x="413" y="184" width="2.5" height="17"/></g></g>
+  <text x="413" y="238" textLength="162" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="k">public void</tspan><tspan class="m"> Code</tspan><tspan class="p">()</tspan></text>
+  <g style="animation:c7 21.08s infinite"><rect x="413" y="223" width="174" height="20" fill="#0b1a20"/><g style="animation:k7 21.08s infinite"><rect class="cur" x="413" y="224" width="2.5" height="17"/></g></g>
+  <text x="413" y="258" textLength="9" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="p">{</tspan></text>
+  <g style="animation:c8 21.08s infinite"><rect x="413" y="243" width="21" height="20" fill="#0b1a20"/><g style="animation:k8 21.08s infinite"><rect class="cur" x="413" y="244" width="2.5" height="17"/></g></g>
+  <text x="431" y="278" textLength="180" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="k">while</tspan><tspan class="p"> (coffee.</tspan><tspan class="m">IsHot</tspan><tspan class="p">)</tspan></text>
+  <g style="animation:c9 21.08s infinite"><rect x="431" y="263" width="192" height="20" fill="#0b1a20"/><g style="animation:k9 21.08s infinite"><rect class="cur" x="431" y="264" width="2.5" height="17"/></g></g>
+  <text x="449" y="298" textLength="405" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="t">Console</tspan><tspan class="p">.</tspan><tspan class="m">WriteLine</tspan><tspan class="p">(</tspan><tspan class="s">"Building cool things..."</tspan><tspan class="p">);</tspan></text>
+  <g style="animation:c10 21.08s infinite"><rect x="449" y="283" width="417" height="20" fill="#0b1a20"/><g style="animation:k10 21.08s infinite"><rect class="cur" x="449" y="284" width="2.5" height="17"/></g></g>
+  <text x="413" y="318" textLength="9" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="p">}</tspan></text>
+  <g style="animation:c11 21.08s infinite"><rect x="413" y="303" width="21" height="20" fill="#0b1a20"/><g style="animation:k11 21.08s infinite"><rect class="cur" x="413" y="304" width="2.5" height="17"/></g></g>
+  <text x="395" y="338" textLength="9" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="p">}</tspan></text>
+  <g style="animation:c12 21.08s infinite"><rect x="395" y="323" width="21" height="20" fill="#0b1a20"/><g style="animation:k12 21.08s infinite"><rect class="cur" x="395" y="324" width="2.5" height="17"/></g></g>
+  </g>
+  <!-- terminal -->
+  <line x1="330" y1="362" x2="970" y2="362" stroke="#2C5364" stroke-width="1.5"/>
+  <text x="350" y="384" class="ui">TERMINAL</text>
+  <g style="animation:term 21.08s infinite"><text x="430" y="384"><tspan class="t">&gt; dotnet run</tspan><tspan class="p">   Building cool things...</tspan><tspan class="s"> ✔</tspan></text></g>
+</svg>
